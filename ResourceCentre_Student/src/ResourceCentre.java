@@ -342,9 +342,9 @@ public class ResourceCentre {
 			}
 		}
 		return isReturned;
-	}return isReturned;
+	}
 
-}
+
 
 	public static void returnChromebook(ArrayList<Chromebook> chromebookList) {
 		// write your code here issac
@@ -358,5 +358,5 @@ public class ResourceCentre {
 		   System.out.println("Camcorder " + tag + " returned");
 	}
 
-
-}
+	}
+	}
