@@ -342,11 +342,8 @@ public class ResourceCentre {
 			}
 		}
 		return isReturned;
-<<<<<<< HEAD
-	
-=======
+
 		}
->>>>>>> branch 'master' of https://github.com/av4lyfo/ResourceCentre_Student.git
 
 
 
@@ -361,11 +358,5 @@ public class ResourceCentre {
 		  } else {
 		   System.out.println("Camcorder " + tag + " returned");
 	}
-
-<<<<<<< HEAD
-
-	}}
-=======
 	}
 	}
->>>>>>> branch 'master' of https://github.com/av4lyfo/ResourceCentre_Student.git
