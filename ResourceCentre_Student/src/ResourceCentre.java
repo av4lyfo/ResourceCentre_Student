@@ -342,9 +342,13 @@ public class ResourceCentre {
 			}
 		}
 		return isReturned;
+<<<<<<< HEAD
 	
+=======
+		}
+>>>>>>> branch 'master' of https://github.com/av4lyfo/ResourceCentre_Student.git
 
-}
+
 
 	public static void returnChromebook(ArrayList<Chromebook> chromebookList) {
 		// write your code here issac
@@ -358,5 +362,10 @@ public class ResourceCentre {
 		   System.out.println("Camcorder " + tag + " returned");
 	}
 
+<<<<<<< HEAD
 
 	}}
+=======
+	}
+	}
+>>>>>>> branch 'master' of https://github.com/av4lyfo/ResourceCentre_Student.git
